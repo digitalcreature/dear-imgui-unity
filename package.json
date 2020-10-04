@@ -13,9 +13,6 @@
     "name": "Real Games",
     "url": "https://realgames.co"
   },
-  "dependencies": {
-    "com.unity.collections": "0.5.0-preview.9"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/realgamessoftware/dear-imgui-unity",
